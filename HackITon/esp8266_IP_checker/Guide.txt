@@ -1,0 +1,2 @@
+Main file to connect the Robot with the Computer
+It also displays the GUI to perform actions on the robot
