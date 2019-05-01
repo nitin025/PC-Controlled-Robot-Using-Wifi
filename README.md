@@ -8,6 +8,7 @@ This robot was designed during  a competition **HackITon** organised by Departme
 + SharpSensor
 + 12V Battery
 + L293D Driver Motor
++ Bot
 
 ## Circuit Diagram
 ![alt text](https://github.com/nitin025/PC-Controlled-Robot-Using-Wifi/blob/master/HackITon/Circuit%20Diagram/F9QN602JBWK0EI6.LARGE.jpg)
